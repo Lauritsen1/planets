@@ -2,4 +2,3 @@
 
 * Jorden
 * Venus
-* Uranus

@@ -1,3 +1,4 @@
 # Planets
 
 * Jorden
+* Venus
